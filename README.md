@@ -13,11 +13,8 @@ This dataset was provided to students for their final projects in a course calle
 The is a CSV file of 2240 observations (customers) with 28 variables related to marketing data. More specifically, the variables provide insights about:
 
 * Customer profiles
-
 * Product preferences
-
 * Campaign successes/failures
-
 * Channel performance
 
 ## Tasks
