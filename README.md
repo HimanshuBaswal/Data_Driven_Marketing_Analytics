@@ -45,3 +45,40 @@ Please plot and visualize the answers to the below questions.
 * Which channels are underperforming?
 
 ### Section 4: Summary of Insights and Suggested Action
+
+## Summaries of insights:
+
+   - The best performing Channels are web and Store purchases.
+   - Underperforming Channels are deals and Catalog purchases.
+    
+    
+ - People having kids at home are less valuable customers as they tend to purchase less
+   - tend to has a high number of purchases made with a discount
+   - Have high number of purchases made with a discount.
+   - Visit Company's website moderately.
+    
+    
+ - Most Successful products are wines and meats
+ - Sweets, Gold, Fish and Fruits were the least successful
+   
+   
+ - Married people with PhD don't spend more on Fish products
+ - High Income People spend and purchase more
+
+
+ - Advertising Campaign
+   - Response (last campaign) seems to be the one with highest acceptance.
+
+
+ - Countries
+   - The most recent campaign had the best response in Mexico(> 60% acceptance rate)
+   - Mexico and India have the highest Average Order Volume, but India seems to spend less than all countries.
+
+Suggested Action:
+    
+   - Focus advertising campaigns on the more successful channels, to reach more customers.
+   - Keep using the same marketing techniques in the last campaign, but with a focus on promoting meat products and wines.
+   - Conduct future advertising campaigns using the same model recently implemented in Mexico.
+   - Have a brand discount day on Thursday or a brand discount month in June to attract new customers. 
+   - Focus advertising campaigns on boosting sales of the less popular items.
+   - Create new marketing campaign for customers with children using the companies website more often.
