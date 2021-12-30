@@ -46,7 +46,7 @@ Please plot and visualize the answers to the below questions.
 
 ### Section 4: Summary of Insights and Suggested Action
 
-## Summaries of insights:
+## Summary of insights:
 
    - The best performing Channels are web and Store purchases.
    - Underperforming Channels are deals and Catalog purchases.
